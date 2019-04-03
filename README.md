@@ -1,4 +1,5 @@
 # UnityWebTool
+<img src="https://github.com/GimChuang/UnityWebTool/blob/master/readme_information/WebTool_Component.png" width="400">
 Simple scripts featuring uploading picture to your server and generate QR codes from the pictures' url.
 There is a **Test_WebTool** sample scene showing how I use the scripts.
 
